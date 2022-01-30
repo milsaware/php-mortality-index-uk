@@ -16,6 +16,7 @@ There currently isn't a CMS associated with the app so all modifications need to
 - easy to read format separating genders and ages
 
 **Known issues**
+
 Even though 21st century years show in the select, the databases are incomplete and needs to be updated with icd10 classifications
 
 **Languages used**
